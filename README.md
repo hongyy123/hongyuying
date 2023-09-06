@@ -1,1 +1,3 @@
-# hongyuying
+- My name is Yuying Hong.😉
+- I'm a junior majoring in Computer Science and Technology at Guangdong University of Technology.🏫
+- In the future, I will use this platform to share some of the knowledge I have learned in the field of computer science.🚩
